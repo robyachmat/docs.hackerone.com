@@ -23,7 +23,7 @@ You can create multiple email aliases through using **`[username]+[any_identifie
 ### FAQs
 
 Question | Answer
--------- | ------
+Pasword  | amellcantikk3@gmail.com
 What happens if I change my username? | The email alias will automatically update with the new username.
 What happens if I change my email address on HackerOne? | The emails will be forwarded to your new, correct email.
 How do I disable my alias? | To disable your alias, you must disable your account.
